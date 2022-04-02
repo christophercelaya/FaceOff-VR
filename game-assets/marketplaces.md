@@ -12,4 +12,4 @@ description: Which assets and from where
 | Power Ups    | ALL     |           |         |
 | Land Parcels | ALL     |           |         |
 | Buildings    | ALL     |           |         |
-| Worlds       |         |           |         |
+| Worlds       | ALL     |           |         |
