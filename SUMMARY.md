@@ -22,7 +22,7 @@
 * [Customization](player/customization.md)
 * [HUD](player/hud.md)
 * [Controlls](player/controlls.md)
-* [Ranking System](player/ranking-system.md)
+* [Ranking System](matchmaking/ranking-system.md)
 
 ## Tokenization
 
@@ -62,6 +62,6 @@
 ## Developers
 
 * [Documentation](developers/documentation.md)
-* [Our Technology](developers/our-technology.md)
+* [Technology](developers/technology.md)
 * [Glossary](developers/glossary.md)
 * [FAQ](developers/faq.md)
