@@ -6,4 +6,4 @@
 * [ ] Fist of Fury
 * [ ] Raid
 * [ ] Bind
-*
+

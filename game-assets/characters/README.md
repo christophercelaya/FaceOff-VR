@@ -1,15 +1,15 @@
 ---
-description: 'Three C''s: Character, Camera, Control.'
+description: overview page, short descritiption
 ---
 
 # Characters
 
-## Character Roles
+## Roles
 
-* [ ] wizard
-* [ ] archer
-* [ ] warrior
-* [ ] assassin
-* [ ] crossbowman
-* [ ] guardian
+* wizard
+* archer
+* warrior
+* assassin
+* crossbowman
+* guardian
 

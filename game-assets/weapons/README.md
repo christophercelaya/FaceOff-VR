@@ -6,16 +6,8 @@ description: >-
 
 # Weapons
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
 {% tabs %}
-{% tab title="Melee" %}
+{% tab title="Offense" %}
 * battle axe![](https://cdn.shopify.com/s/files/1/1721/5605/products/ICT-1002-R\_2\_copy\_2048x.jpg?v=1577384348)
 * club&#x20;
 * mace
@@ -34,35 +26,10 @@ description: >-
 * war hammer
 {% endtab %}
 
-{% tab title="Ranged" %}
-bows
+{% tab title="Defense" %}
+* armor
+* shield
 
-longbows
 
-short bows
-
-crossbows
-
-gunpowder firearms
-{% endtab %}
-
-{% tab title="Artillery and Siege" %}
-battling rams
-
-catapult
-
-trebuchet
-
-ballista
-
-siege tower
-{% endtab %}
-
-{% tab title="Animals" %}
-dogs
-
-horses
-
-pigs
 {% endtab %}
 {% endtabs %}
