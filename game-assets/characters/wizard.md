@@ -2,14 +2,14 @@
 description: A magician; an enchanter; a person expert in the black art.
 ---
 
-# Wizard
+# 🧙♂ Wizard
 
-{% tabs %}
-{% tab title="First Tab" %}
+## Character Stats
 
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+| Skill        | Point Cost         |     Limit     |
+| ------------ | ------------------ | :-----------: |
+| Movement     | 4 squares          | any direction |
+| Damage       | 2000 damage points |               |
+| Health       | 1000 health points |               |
+| Attack Range | 4 squares          | any direction |
+| Cost         | 150 war points     |               |

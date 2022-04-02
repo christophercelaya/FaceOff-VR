@@ -30,12 +30,12 @@
 ## Game Assets
 
 * [Characters](game-assets/characters/README.md)
-  * [Wizard](game-assets/characters/wizard.md)
-  * [Archer](game-assets/characters/archer.md)
-  * [Warrior](game-assets/characters/warrior.md)
-  * [Assassin](game-assets/characters/assassin.md)
-  * [Crossbow](game-assets/characters/crossbow.md)
-  * [Guardian](game-assets/characters/guardian.md)
+  * [🧙♂ Wizard](game-assets/characters/wizard.md)
+  * [🏹 Archer](game-assets/characters/archer.md)
+  * [🪓 Warrior](game-assets/characters/warrior.md)
+  * [🕵 Assassin](game-assets/characters/assassin.md)
+  * [🏹 Crossbow](game-assets/characters/crossbow.md)
+  * [💂 Guardian](game-assets/characters/guardian.md)
 * [Weapons](game-assets/weapons/README.md)
   * [Offensive](game-assets/weapons/offensive.md)
   * [Defensive](game-assets/weapons/defensive.md)
