@@ -61,7 +61,13 @@
 
 ## Developers
 
-* [Documentation](developers/documentation.md)
-* [Technology](developers/technology.md)
+* [Documentation](developers/documentation/README.md)
+  * [Identity](developers/documentation/identity.md)
+  * [Backend](developers/documentation/backend.md)
+  * [Core](developers/documentation/core.md)
+  * [Frontend](developers/documentation/frontend.md)
+* [Block Explorer](developers/block-explorer.md)
+* [DIY](developers/diy/README.md)
+  * [Deploy a node](developers/diy/deploy-a-node.md)
 * [Glossary](developers/glossary.md)
 * [FAQ](developers/faq.md)
