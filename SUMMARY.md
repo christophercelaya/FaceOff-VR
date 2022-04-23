@@ -24,6 +24,10 @@
 * [Controlls](player/controlls.md)
 * [Ranking System](matchmaking/ranking-system.md)
 
+## Gameplay
+
+* [Page 1](gameplay/page-1.md)
+
 ## Tokenization
 
 * [Supply and Distribution](tokenization/supply-and-distribution.md)
